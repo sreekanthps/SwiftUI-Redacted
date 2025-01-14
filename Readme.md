@@ -10,6 +10,8 @@ The redacted feature is used to hide the content in the name of palce holder 
  
 ![Alt text](Screenshot1.png) ![Alt text](Screenshot2.png)
 
+[<img src="Screenshot1.png" width="250" height="500"/>] [<img src="Screenshot2.png" width="250" height="500"/>]
+
 ## Code snippert
 
 ```
