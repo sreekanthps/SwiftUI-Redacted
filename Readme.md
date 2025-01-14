@@ -8,8 +8,7 @@ The redacted feature is used to hide the content in the name of palce holder 
 
 ## Screen shots  
  
-
-!\[Screenshot\](Screenshot1.png) !\[Screenshot\](Screenshot2.png)
+![Alt text](Screenshot1.png) ![Alt text](Screenshot2.png)
 
 ## Code snippert
 
